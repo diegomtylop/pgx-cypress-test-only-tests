@@ -38,6 +38,5 @@ testem.log
 /cypress/videos
 
 # System Files
-/**/.DS_Store
 .DS_Store
 Thumbs.db
